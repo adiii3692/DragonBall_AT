@@ -1,8 +1,7 @@
 # DRAGON BALL A-T 
 
 ## Sneak Peek:
-![loading](<img width="767" alt="loadingScreen" src="https://github.com/adiii3692/DragonBall_AT/assets/111661089/88437a7d-99d3-4989-9382-2b3aa7988a76">
-)
+![loading]("https://github.com/adiii3692/DragonBall_AT/assets/111661089/88437a7d-99d3-4989-9382-2b3aa7988a76")
 ![gameplay](https://user-images.githubusercontent.com/111661089/219258507-89486a13-a7f8-4800-982e-6735ac8bcc6a.jpeg)
 ![win](https://user-images.githubusercontent.com/111661089/219258814-2f2260f5-60d9-4e21-9aa4-08b986fd6e63.jpeg)
 
