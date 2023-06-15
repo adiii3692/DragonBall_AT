@@ -39,8 +39,9 @@ Vegito has been placed in an experiment by Dr. Law and needs to escape through t
 * The Terminal **MUST** be opened in the directory in which all the files are located
 * After starting the terminal you need to open the Main.java file on your code editor
 * Upon opening the Main.java file you can do one of two things:
-**1.** You can either run the game by clicking on the run button (A Play Button) at the top - right of the window
-**2.** Or you can enter this in the terminal to compile the files
+
+1. You can either run the game by clicking on the run button (A Play Button) at the top - right of the window
+2. Or you can enter this in the terminal to compile the files
 
 ```
 javac Main.java
