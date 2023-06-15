@@ -24,7 +24,7 @@ Vegito has been placed in an experiment by Dr. Law and needs to escape through t
 
 ### Game Rules and Objective:
 * You must collect **all 7 Dragon Balls** to be able to enter the sealed portal
-* You start with **5 (hundred) health** and **lose health** on coming in contact with **Zoro or falling down a pit**
+* You start with **5 health** and **lose health** on coming in contact with **Zoro or falling down a pit**
 * Approach **Dr. Law** to learn more about your objective
 * You lose **1 health** for coming in contact with Zoro
 * You lose **0.5 health** for falling down a pit
