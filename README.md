@@ -4,9 +4,8 @@
 ![loading](https://github.com/adiii3692/DragonBall_AT/blob/main/dbat%20imgs/loadingScreen.png)
 ![maze](https://github.com/adiii3692/DragonBall_AT/blob/main/dbat%20imgs/maze.png)
 ![npc](https://github.com/adiii3692/DragonBall_AT/blob/main/dbat%20imgs/npc.png)
-![over](https://github.com/adiii3692/DragonBall_AT/blob/main/dbat%20imgs/over.png)
 ![zoro](https://github.com/adiii3692/DragonBall_AT/blob/main/dbat%20imgs/zoro.png)
-
+![over](https://github.com/adiii3692/DragonBall_AT/blob/main/dbat%20imgs/over.png)
 
 ## Tech Used:
 1. JAVA (Swing)
