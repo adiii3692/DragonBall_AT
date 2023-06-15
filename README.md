@@ -14,7 +14,7 @@
 This project is a simple theme based adventure 2D game created using the JAVA library Swing for my ICS4U1 final summative
 
 ### Game Lore:
-Vegito has been placed in an experiment by Dr. Law. Help him escape using the sealed portal. Dr. Law informs him of his objective: To collect all 7 dragon balls and be able to break through the sealed door. BUT Beware!!! Pirate Hunter Zoro has once again lost his way and entered the Dragon Ball Universe to stand in Vegito's way. Find your way through the pirate's ferocious attacks and transform into your best possible form !!!
+Vegito has been placed in an experiment by Dr. Law. It is up to you to help him escape through the sealed portal. Dr. Law informs him of his objective: To collect all 7 dragon balls and be able to break through the sealed door. BUT Beware!!! Pirate Hunter Zoro has once again lost his way and entered the Dragon Ball Universe to stand in Vegito's way. Find your way through the pirate's ferocious attacks and transform into your best possible form !!!
 
 ### Player Controls:
 * Use the **W key** to move your player up
