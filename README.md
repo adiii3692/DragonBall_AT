@@ -36,16 +36,16 @@ Vegito has been placed in an experiment by Dr. Law and needs to escape through t
 * It is recommended to open all the files in a code editor such as VS Code (Preferably)
 * If not already downloaded, you need to ensure that you have downloaded the latest version of [JAVA](https://www.oracle.com/ca-en/java/technologies/downloads/).
 * After downloading JAVA and the necessary code editor, you need to open the Terminal on your device
-* After installing pygame, you need to go back to the code editor and open the terminal in the directory in which the files are located. 
+* The Terminal **MUST** be opened in the directory in which all the files are located
 * After starting the terminal you need to open the Main.java file on your code editor
 * Upon opening the Main.java file you can do one of two things:
-* You can either run the game by clicking on the run button (A Play Button) at the top - right of the window
-* Or you can enter this in the terminal to compile the files
+1. You can either run the game by clicking on the run button (A Play Button) at the top - right of the window
+2. Or you can enter this in the terminal to compile the files
 
 ```
 javac Main.java
 ```
-* After compiling the files, type this command again in the terminal to run the game
+* After compiling the files, type this command in the terminal to run the game
 
 ```
 java Main
