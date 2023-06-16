@@ -35,13 +35,13 @@ Vegito has been placed in an experiment by Dr. Law and needs to escape through t
 ## How to run the game?
 * It is recommended to open all the files in a code editor such as VS Code (Preferably)
 * If not already downloaded, you need to ensure that you have downloaded the latest version of [JAVA](https://www.oracle.com/ca-en/java/technologies/downloads/).
-* After downloading JAVA and the necessary code editor, you need to use the code editor to open the Terminal on your device
-* The Terminal **MUST** be opened in the directory in which all the files are located
-* After starting the terminal you need to open the Main.java file on your code editor
+* After downloading JAVA and the necessary code editor, you need to use the code editor to open the folder on your device
+* The code editor **MUST** be opened in the directory in which all the files are located
+* After opening the code editor, open the Main.java file
 * Upon opening the Main.java file you can do one of two things:
 
 1. You can either run the game by clicking on the run button (A Play Button) at the top - right of the window
-2. Or you can enter this in the terminal to compile the files
+2. Or you can start a new terminal and enter this to compile the code
 
 ```
 javac Main.java
